@@ -23,7 +23,7 @@ Belekóstolunk a VueJS adta lehetőségekbe.
 
 **Repository**
 
-Folyamatban
+https://github.com/dosabalint/webfejleszto-vue-01-01
 
 ### 1/2. feladat - Kereső refactor
 
