@@ -13,6 +13,8 @@ https://www.facebook.com/groups/364060044017273/
 
 ## 1. alkalom - 2018 június 5.
 
+[Tematika](assets/mm-vue01.png)
+
 ### 1/1. feladat - Ezt csak így ide be, és működik is
 
 **Feladat**
