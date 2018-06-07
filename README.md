@@ -44,3 +44,37 @@ A korábban JS-ben írt kosarunkat is górcső alá vesszük, hátha tudunk rajt
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-01-03
+
+## 2. alkalom - 2018 június 7.
+
+[Tematika](assets/mm-vue02.png)
+
+### 2/1. feladat - NPM
+
+**Feladat**
+
+CDN helyett átállunk a package.json használatára
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-02-01
+
+### 2/2. feladat - HTTP server és opener
+
+**Feladat**
+
+Belekóstolunk, hogy mit is lehet összerakni NPM és package.json segítségével.
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-02-02
+
+### 2/3. feladat - SASS
+
+**Feladat**
+
+Kiegészítjük CSS körüli ismereteinket a SASS-sal.
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-02-03
