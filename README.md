@@ -78,3 +78,37 @@ Kiegészítjük CSS körüli ismereteinket a SASS-sal.
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-02-03
+
+## 3. alkalom - 2018 június 12.
+
+Tematika (Folyamatban)
+
+### 3/1. feladat - Komponensek
+
+**Feladat**
+
+Kipróbáljuk, hogy milyen VueJS komponensekkel dolgozni.
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-03-01
+
+### 3/2. feladat - Webpack
+
+**Feladat**
+
+A workflow-nkon csavarunk még egy kicsit a Webpack-kel.
+
+**Repository**
+
+(Folyamatban)
+
+### 3/3. feladat - .vue komponensek
+
+**Feladat**
+
+Írunk saját .vue komponenst
+
+**Repository**
+
+(Folyamatban)
