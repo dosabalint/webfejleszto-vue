@@ -97,7 +97,7 @@ https://github.com/dosabalint/webfejleszto-vue-03-01
 
 **Feladat**
 
-A workflow-nkon csavarunk még egy kicsit a Webpack-kel.
+A workflownkon csavarunk még egy kicsit a Webpackkel.
 
 **Repository**
 
