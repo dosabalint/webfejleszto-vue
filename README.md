@@ -8,8 +8,8 @@ https://www.facebook.com/groups/364060044017273/
 
 **Email**
 
-*   dosa.balint@netacademia.hu
-*   oktatok@netacademia.hu
+-   dosa.balint@netacademia.hu
+-   oktatok@netacademia.hu
 
 ## 1. alkalom - 2018 június 5.
 
@@ -58,6 +58,10 @@ CDN helyett átállunk a package.json használatára
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-02-01
+
+**Egyéb linkek**
+
+-   https://stackoverflow.com/a/31733623/4920059
 
 ### 2/2. feladat - HTTP server és opener
 
