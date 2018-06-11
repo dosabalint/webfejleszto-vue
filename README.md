@@ -101,11 +101,11 @@ https://github.com/dosabalint/webfejleszto-vue-03-01
 
 **Feladat**
 
-A workflownkon csavarunk még egy kicsit a Webpackkel.
+A workflownkon csavarunk még egy kicsit a Webpackkel és .vue komponensekkel
 
 **Repository**
 
-(Folyamatban)
+https://github.com/dosabalint/webfejleszto-vue-03-02
 
 ### 3/3. feladat - .vue komponensek
 
