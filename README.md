@@ -111,8 +111,8 @@ https://github.com/dosabalint/webfejleszto-vue-03-02
 
 **Feladat**
 
-Írunk saját .vue komponenst
+Írunk egy saját .vue komponenst
 
 **Repository**
 
-(Folyamatban)
+https://github.com/dosabalint/webfejleszto-vue-03-03
