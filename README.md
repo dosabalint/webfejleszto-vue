@@ -85,7 +85,7 @@ https://github.com/dosabalint/webfejleszto-vue-02-03
 
 ## 3. alkalom - 2018 június 12.
 
-Tematika (Folyamatban)
+[Tematika](assets/mm-vue03.png)
 
 ### 3/1. feladat - Komponensek
 
