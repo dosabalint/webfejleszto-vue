@@ -116,3 +116,25 @@ https://github.com/dosabalint/webfejleszto-vue-03-02
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-03-03
+
+## 4. alkalom - 2018 június 14.
+
+[Tematika](assets/mm-vue04.png)
+
+### 4/1. feladat - Szerkezet átnézése
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/04-01_project-init
+
+### 4/2. feladat - index.html feldarabolása
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/04-02_index-darabolas
+
+### 4/3. feladat - blog oldal feldarabolása
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/04-03_blog-darabolas
