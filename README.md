@@ -138,3 +138,9 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/04-02_index-darabolas
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/04-03_blog-darabolas
+
+### 4/4. feladat - Navigation átdolgozása
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/04-04_navigation-atdolgozasa
