@@ -171,7 +171,7 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-02_json-server
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-03_blog-megjelenites
 
-### 5/4. feladat - Blog - megjelenítés
+### 5/4. feladat - Blog - szűrés
 
 **Repository**
 
