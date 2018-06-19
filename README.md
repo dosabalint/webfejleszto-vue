@@ -144,3 +144,35 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/04-03_blog-darabolas
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/04-04_navigation-atdolgozasa
+
+## 5. alkalom - 2018 június 19.
+
+[Tematika](assets/mm-vue05.png)
+
+### 5/1. feladat - Általános komponensek
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-01_altalanos-komponensek
+
+### 5/2. feladat - JSON server
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-02_json-server
+
+**Egyéb linkek**
+
+-   https://spring.io/understanding/REST
+
+### 5/3. feladat - Blog - megjelenítés
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-03_blog-megjelenites
+
+### 5/4. feladat - Blog - megjelenítés
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-04_blog-szures
