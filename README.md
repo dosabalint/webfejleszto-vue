@@ -176,3 +176,25 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-03_blog-megjelenit
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-04_blog-szures
+
+## 6. alkalom - 2018 június 21.
+
+[Tematika](assets/mm-vue06.png)
+
+### 6/1. feladat - Vue Router
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/06-01_vue-router
+
+### 6/2. feladat - Blog category szűrés refactor
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/06-02_blog-category-szures-refactor
+
+### 6/3. feladat - Post oldal
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/06-03_post-oldal
