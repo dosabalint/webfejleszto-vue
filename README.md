@@ -208,3 +208,13 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/06-02_blog-category-s
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/06-03_post-oldal
+
+### Gyakorló / Házi feladat ötletek
+
+- lapozó bevezetése
+    - elsőre kategória szűréstől külön, utána akár egyben a kettőt
+    - új route
+    - $route.params alól oldalszám alapján tördelés
+- kereső szűrő oldal
+- címke szűrő oldal
+- footer komponens
