@@ -8,6 +8,7 @@
 * [4. alkalom - 2018 június 14.](#4-alkalom---2018-június-14)
 * [5. alkalom - 2018 június 19.](#5-alkalom---2018-június-19)
 * [6. alkalom - 2018 június 21.](#6-alkalom---2018-június-21)
+* [7. alkalom - 2018 június 26.](#7-alkalom---2018-június-26)
 
 
 ## Elérhetőségek
