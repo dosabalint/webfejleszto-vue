@@ -218,3 +218,25 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/06-03_post-oldal
 - kereső szűrő oldal
 - címke szűrő oldal
 - footer komponens
+
+## 7. alkalom - 2018 június 26.
+
+[Tematika](assets/mm-vue07.png)
+
+### 7/1. feladat - Firebase project
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/07-01_firebase-project
+
+### 7/2. feladat - DataService bővítés
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/07-02_dataservice-bovites
+
+### 7/3. feladat - Contact form
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/07-03_contact-form
