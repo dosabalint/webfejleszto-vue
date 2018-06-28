@@ -9,6 +9,7 @@
 * [5. alkalom - 2018 június 19.](#5-alkalom---2018-június-19)
 * [6. alkalom - 2018 június 21.](#6-alkalom---2018-június-21)
 * [7. alkalom - 2018 június 26.](#7-alkalom---2018-június-26)
+* [8. alkalom - 2018 június 28.](#8-alkalom---2018-június-28)
 
 
 ## Elérhetőségek
@@ -241,3 +242,29 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/07-02_dataservice-bov
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/07-03_contact-form
+
+## 8. alkalom - 2018 június 28.
+
+[Tematika](assets/mm-vue08.png)
+
+### 8/1. feladat - Kérdőív oldal
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/08-01_kerdoiv-oldal
+
+### 8/2. feladat - DataService bővítés
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/08-02_dataservice-bovites
+
+### 8/3. feladat - Statisztika oldal
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/08-03_statisztika-oldal
+
+### Egyéb linkek
+
+- https://stackoverflow.com/questions/37922518/how-to-set-start-value-as-0-in-chartjs
