@@ -10,6 +10,7 @@
 * [6. alkalom - 2018 június 21.](#6-alkalom---2018-június-21)
 * [7. alkalom - 2018 június 26.](#7-alkalom---2018-június-26)
 * [8. alkalom - 2018 június 28.](#8-alkalom---2018-június-28)
+* [Gyakorláshoz](#Gyakorláshoz)
 
 
 ## Elérhetőségek
@@ -268,3 +269,10 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/08-03_statisztika-old
 ### Egyéb linkek
 
 - https://stackoverflow.com/questions/37922518/how-to-set-start-value-as-0-in-chartjs
+
+## Gyakorláshoz
+
+- jQuery kurzus példáinak átdolgozása VueJS alapon: https://github.com/dosabalint/webfejleszto-jquery
+- JS kurzus példáinak átdolgozása VueJS alapon: https://github.com/dosabalint/webfejleszto-javascript
+- VueJS.org példák: https://vuejs.org/v2/examples/
+- Todo alkalmazás: https://vuejs.org/v2/examples/todomvc.html
