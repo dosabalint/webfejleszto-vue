@@ -10,7 +10,7 @@
 * [6. alkalom - 2018 június 21.](#6-alkalom---2018-június-21)
 * [7. alkalom - 2018 június 26.](#7-alkalom---2018-június-26)
 * [8. alkalom - 2018 június 28.](#8-alkalom---2018-június-28)
-* [Gyakorláshoz](#Gyakorláshoz)
+* [Gyakorláshoz](#gyakorláshoz)
 
 
 ## Elérhetőségek
