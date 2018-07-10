@@ -12,7 +12,7 @@
   * [7. alkalom - 2018 június 26.](#7-alkalom---2018-június-26)
   * [8. alkalom - 2018 június 28.](#8-alkalom---2018-június-28)
 * Vue advanced
-  * [1. alkalom - 2018 július 10.](#1-alkalom--.Ismétlés,-REST-és-firebase---2018-július-10)
+  * [1. alkalom - 2018 július 10.](#1-alkalom---2018-07-10)
 * [Gyakorláshoz](#gyakorláshoz)
 
 
@@ -30,7 +30,7 @@ https://www.facebook.com/groups/364060044017273/
 
 ## Vue Advanced
 
-### 1. alkalom - Ismétlés, REST és firebase - 2018. július 10.
+### 1. alkalom - 2018.07.10.
 
 **Feladat**
 
