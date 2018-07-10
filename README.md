@@ -24,7 +24,32 @@ https://www.facebook.com/groups/364060044017273/
 -   dosa.balint@netacademia.hu
 -   oktatok@netacademia.hu
 
-## 1. alkalom - 2018 június 5.
+## Vue Advanced
+
+**Feladat**
+
+* átnézzük, hogy milyen eszközöket használunk majd a kurzus során 
+* átismételjük, hogy hogyan is épül fel a projekt és kicsit végig nézzük a kódunkat
+* firebase ismétlés és használat
+** megcsináljuk az adatbázisunkat
+** megismerjük hogyan működik a firebase rest apin keresztül és megrángatjuk vs code extension segítségével
+** átemeljük a blogpostokat a lokális back-endünkről firebase-re
+** megnézzük hogyan működik a firebase authentikáció
+** beregisztráljuk az első userünket
+** levédjük az adatbázisunkat az idegenektől
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv01_0710_firebase-auth-es-jogosultsagok
+
+** Mindmap **
+
+![Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-advanced01.png)
+
+
+## Vue Intro
+
+### 1. alkalom - 2018 június 5.
 
 [Tematika](assets/mm-vue01.png)
 
