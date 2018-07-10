@@ -2,14 +2,17 @@
 
 ## Tartalomjegyzék
 
-* [1. alkalom - 2018 június 5.](#1-alkalom---2018-június-5)
-* [2. alkalom - 2018 június 7.](#2-alkalom---2018-június-7)
-* [3. alkalom - 2018 június 12.](#3-alkalom---2018-június-12)
-* [4. alkalom - 2018 június 14.](#4-alkalom---2018-június-14)
-* [5. alkalom - 2018 június 19.](#5-alkalom---2018-június-19)
-* [6. alkalom - 2018 június 21.](#6-alkalom---2018-június-21)
-* [7. alkalom - 2018 június 26.](#7-alkalom---2018-június-26)
-* [8. alkalom - 2018 június 28.](#8-alkalom---2018-június-28)
+* Vue intro
+  * [1. alkalom - 2018 június 5.](#1-alkalom---2018-június-5)
+  * [2. alkalom - 2018 június 7.](#2-alkalom---2018-június-7)
+  * [3. alkalom - 2018 június 12.](#3-alkalom---2018-június-12)
+  * [4. alkalom - 2018 június 14.](#4-alkalom---2018-június-14)
+  * [5. alkalom - 2018 június 19.](#5-alkalom---2018-június-19)
+  * [6. alkalom - 2018 június 21.](#6-alkalom---2018-június-21)
+  * [7. alkalom - 2018 június 26.](#7-alkalom---2018-június-26)
+  * [8. alkalom - 2018 június 28.](#8-alkalom---2018-június-28)
+* Vue advanced
+  * [1. alkalom - 2018 július 10.](#1-alkalom--.Ismétlés,-REST-és-firebase---2018-július-10)
 * [Gyakorláshoz](#gyakorláshoz)
 
 
@@ -23,29 +26,29 @@ https://www.facebook.com/groups/364060044017273/
 
 -   dosa.balint@netacademia.hu
 -   oktatok@netacademia.hu
+-   nagy.gergo@netacademia.hu
 
 ## Vue Advanced
+
+### 1. alkalom - Ismétlés, REST és firebase - 2018. július 10.
 
 **Feladat**
 
 * átnézzük, hogy milyen eszközöket használunk majd a kurzus során 
 * átismételjük, hogy hogyan is épül fel a projekt és kicsit végig nézzük a kódunkat
 * firebase ismétlés és használat
-** megcsináljuk az adatbázisunkat
-** megismerjük hogyan működik a firebase rest apin keresztül és megrángatjuk vs code extension segítségével
-** átemeljük a blogpostokat a lokális back-endünkről firebase-re
-** megnézzük hogyan működik a firebase authentikáció
-** beregisztráljuk az első userünket
-** levédjük az adatbázisunkat az idegenektől
+  * megcsináljuk az adatbázisunkat
+  * megismerjük hogyan működik a firebase rest apin keresztül és megrángatjuk vs code extension segítségével
+  * átemeljük a blogpostokat a lokális back-endünkről firebase-re
+  * megnézzük hogyan működik a firebase authentikáció
+  * beregisztráljuk az első userünket
+  * levédjük az adatbázisunkat az idegenektől
+
+![Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-advanced01.png)
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv01_0710_firebase-auth-es-jogosultsagok
-
-** Mindmap **
-
-![Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-advanced01.png)
-
 
 ## Vue Intro
 
@@ -53,7 +56,7 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv01_0710_fi
 
 [Tematika](assets/mm-vue01.png)
 
-### 1/1. feladat - Ezt csak így ide be, és működik is
+#### 1/1. feladat - Ezt csak így ide be, és működik is
 
 **Feladat**
 
@@ -63,7 +66,7 @@ Belekóstolunk a VueJS adta lehetőségekbe.
 
 https://github.com/dosabalint/webfejleszto-vue-01-01
 
-### 1/2. feladat - Kereső refactor
+#### 1/2. feladat - Kereső refactor
 
 **Feladat**
 
@@ -73,7 +76,7 @@ A JS-ben írt keresőnket átnézzük, hogy is nézne ki VueJS-re építve.
 
 https://github.com/dosabalint/webfejleszto-vue-01-02
 
-### 1/3. feladat - Kosár refactor
+#### 1/3. feladat - Kosár refactor
 
 **Feladat**
 
@@ -83,11 +86,11 @@ A korábban JS-ben írt kosarunkat is górcső alá vesszük, hátha tudunk rajt
 
 https://github.com/dosabalint/webfejleszto-vue-01-03
 
-## 2. alkalom - 2018 június 7.
+### 2. alkalom - 2018 június 7.
 
 [Tematika](assets/mm-vue02.png)
 
-### 2/1. feladat - NPM
+#### 2/1. feladat - NPM
 
 **Feladat**
 
@@ -101,7 +104,7 @@ https://github.com/dosabalint/webfejleszto-vue-02-01
 
 -   https://stackoverflow.com/a/31733623/4920059
 
-### 2/2. feladat - HTTP server és opener
+#### 2/2. feladat - HTTP server és opener
 
 **Feladat**
 
@@ -111,7 +114,7 @@ Belekóstolunk, hogy mit is lehet összerakni NPM és package.json segítségév
 
 https://github.com/dosabalint/webfejleszto-vue-02-02
 
-### 2/3. feladat - SASS
+#### 2/3. feladat - SASS
 
 **Feladat**
 
@@ -121,11 +124,11 @@ Kiegészítjük CSS körüli ismereteinket a SASS-sal.
 
 https://github.com/dosabalint/webfejleszto-vue-02-03
 
-## 3. alkalom - 2018 június 12.
+### 3. alkalom - 2018 június 12.
 
 [Tematika](assets/mm-vue03.png)
 
-### 3/1. feladat - Komponensek
+#### 3/1. feladat - Komponensek
 
 **Feladat**
 
@@ -135,7 +138,7 @@ Kipróbáljuk, hogy milyen VueJS komponensekkel dolgozni.
 
 https://github.com/dosabalint/webfejleszto-vue-03-01
 
-### 3/2. feladat - Webpack
+#### 3/2. feladat - Webpack
 
 **Feladat**
 
@@ -145,7 +148,7 @@ A workflownkon csavarunk még egy kicsit a Webpackkel és .vue komponensekkel
 
 https://github.com/dosabalint/webfejleszto-vue-03-02
 
-### 3/3. feladat - .vue komponensek
+#### 3/3. feladat - .vue komponensek
 
 **Feladat**
 
@@ -155,45 +158,45 @@ https://github.com/dosabalint/webfejleszto-vue-03-02
 
 https://github.com/dosabalint/webfejleszto-vue-03-03
 
-## 4. alkalom - 2018 június 14.
+### 4. alkalom - 2018 június 14.
 
 [Tematika](assets/mm-vue04.png)
 
-### 4/1. feladat - Szerkezet átnézése
+#### 4/1. feladat - Szerkezet átnézése
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/04-01_project-init
 
-### 4/2. feladat - index.html feldarabolása
+#### 4/2. feladat - index.html feldarabolása
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/04-02_index-darabolas
 
-### 4/3. feladat - blog oldal feldarabolása
+#### 4/3. feladat - blog oldal feldarabolása
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/04-03_blog-darabolas
 
-### 4/4. feladat - Navigation átdolgozása
+#### 4/4. feladat - Navigation átdolgozása
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/04-04_navigation-atdolgozasa
 
-## 5. alkalom - 2018 június 19.
+### 5. alkalom - 2018 június 19.
 
 [Tematika](assets/mm-vue05.png)
 
-### 5/1. feladat - Általános komponensek
+#### 5/1. feladat - Általános komponensek
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-01_altalanos-komponensek
 
-### 5/2. feladat - JSON server
+#### 5/2. feladat - JSON server
 
 **Repository**
 
@@ -203,41 +206,41 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-02_json-server
 
 -   https://spring.io/understanding/REST
 
-### 5/3. feladat - Blog - megjelenítés
+#### 5/3. feladat - Blog - megjelenítés
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-03_blog-megjelenites
 
-### 5/4. feladat - Blog - szűrés
+#### 5/4. feladat - Blog - szűrés
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-04_blog-szures
 
-## 6. alkalom - 2018 június 21.
+### 6. alkalom - 2018 június 21.
 
 [Tematika](assets/mm-vue06.png)
 
-### 6/1. feladat - Vue Router
+#### 6/1. feladat - Vue Router
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/06-01_vue-router
 
-### 6/2. feladat - Blog category szűrés refactor
+#### 6/2. feladat - Blog category szűrés refactor
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/06-02_blog-category-szures-refactor
 
-### 6/3. feladat - Post oldal
+#### 6/3. feladat - Post oldal
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/06-03_post-oldal
 
-### Gyakorló / Házi feladat ötletek
+#### Gyakorló / Házi feladat ötletek
 
 - lapozó bevezetése
     - elsőre kategória szűréstől külön, utána akár egyben a kettőt
@@ -247,51 +250,51 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/06-03_post-oldal
 - címke szűrő oldal
 - footer komponens
 
-## 7. alkalom - 2018 június 26.
+### 7. alkalom - 2018 június 26.
 
 [Tematika](assets/mm-vue07.png)
 
-### 7/1. feladat - Firebase project
+#### 7/1. feladat - Firebase project
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/07-01_firebase-project
 
-### 7/2. feladat - DataService bővítés
+#### 7/2. feladat - DataService bővítés
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/07-02_dataservice-bovites
 
-### 7/3. feladat - Contact form
+#### 7/3. feladat - Contact form
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/07-03_contact-form
 
-## 8. alkalom - 2018 június 28.
+### 8. alkalom - 2018 június 28.
 
 [Tematika](assets/mm-vue08.png)
 
-### 8/1. feladat - Kérdőív oldal
+#### 8/1. feladat - Kérdőív oldal
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/08-01_kerdoiv-oldal
 
-### 8/2. feladat - DataService bővítés
+#### 8/2. feladat - DataService bővítés
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/08-02_dataservice-bovites
 
-### 8/3. feladat - Statisztika oldal
+#### 8/3. feladat - Statisztika oldal
 
 **Repository**
 
 https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/08-03_statisztika-oldal
 
-### Egyéb linkek
+#### Egyéb linkek
 
 - https://stackoverflow.com/questions/37922518/how-to-set-start-value-as-0-in-chartjs
 
