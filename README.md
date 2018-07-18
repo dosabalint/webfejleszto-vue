@@ -15,6 +15,7 @@
 - Vue advanced
   - [1. alkalom - 2018 július 10.](#1-alkalom---20180710)
   - [2. alkalom - 2018 július 17.](#2-alkalom---20180717)
+  - [2. alkalom - 2018 július 18.](#2-alkalom---20180718)
 
 ## Elérhetőségek
 
@@ -29,6 +30,21 @@ https://www.facebook.com/groups/364060044017273/
 - nagy.gergo@netacademia.hu
 
 ## Vue Advanced
+
+### 3. alkalom - 2018.07.18.
+
+**Feladat**
+
+- Ismételjük az eddigieket azon keresztül, hogy megvalósítjuk a registration-t is
+- refaktorolunk a kódunkon sokat, hogy minimalizáljuk önmagunk ismétlését
+- logikailag elkezdjük elszeparálni az action-öket és a mutation-öket
+  - egyelőre még a root instance eszközein keresztül
+
+![Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-advanced03.png)
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv02_0718_registration
 
 ### 2. alkalom - 2018.07.17.
 
