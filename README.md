@@ -2,19 +2,19 @@
 
 ## Tartalomjegyzék
 
-* Vue intro
-  * [1. alkalom - 2018 június 5.](#1-alkalom---2018-június-5)
-  * [2. alkalom - 2018 június 7.](#2-alkalom---2018-június-7)
-  * [3. alkalom - 2018 június 12.](#3-alkalom---2018-június-12)
-  * [4. alkalom - 2018 június 14.](#4-alkalom---2018-június-14)
-  * [5. alkalom - 2018 június 19.](#5-alkalom---2018-június-19)
-  * [6. alkalom - 2018 június 21.](#6-alkalom---2018-június-21)
-  * [7. alkalom - 2018 június 26.](#7-alkalom---2018-június-26)
-  * [8. alkalom - 2018 június 28.](#8-alkalom---2018-június-28)
-* Vue advanced
-  * [1. alkalom - 2018 július 10.](#1-alkalom---2018-07-10)
-* [Gyakorláshoz](#gyakorláshoz)
+- Vue intro
+  - [1. alkalom - 2018 június 5.](#1-alkalom---2018-június-5)
+  - [2. alkalom - 2018 június 7.](#2-alkalom---2018-június-7)
+  - [3. alkalom - 2018 június 12.](#3-alkalom---2018-június-12)
+  - [4. alkalom - 2018 június 14.](#4-alkalom---2018-június-14)
+  - [5. alkalom - 2018 június 19.](#5-alkalom---2018-június-19)
+  - [6. alkalom - 2018 június 21.](#6-alkalom---2018-június-21)
+  - [7. alkalom - 2018 június 26.](#7-alkalom---2018-június-26)
+  - [8. alkalom - 2018 június 28.](#8-alkalom---2018-június-28)
+  - [Gyakorláshoz](#gyakorláshoz)
+- Vue advanced
 
+  - [1. alkalom - 2018 július 10.](#1-alkalom---2018-07-10)
 
 ## Elérhetőségek
 
@@ -24,25 +24,46 @@ https://www.facebook.com/groups/364060044017273/
 
 **Email**
 
--   dosa.balint@netacademia.hu
--   oktatok@netacademia.hu
--   nagy.gergo@netacademia.hu
+- dosa.balint@netacademia.hu
+- oktatok@netacademia.hu
+- nagy.gergo@netacademia.hu
 
 ## Vue Advanced
+
+### 2. alkalom - 2018.07.17.
+
+**Feladat**
+
+- Elkezdjük átemelni a login és a registrációs felületeket
+- Implementáljuk a valós login-t az eddigi firebase-s ismereteink alapján
+- Megismerkedünk a globál állapotkezelés problémájával, mivel service végzi a műveletet, de componentben szeretnénk használni ennek az eredményét
+  - amit kipróbálunk:
+    - global namespace (window)
+    - root component data-ban adat tárolás
+  - amit nem próbálunk ki, de érdekes és megoldás lehet hasonló problémára
+    - [vue component mint message bus](https://alligator.io/vuejs/global-event-bus/)b
+    - [saját store megvalósítása](https://vuejs.org/v2/guide/state-management.html)
+      - ezt még azért lehet elővesszük majd :smile:
+
+![Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-advanced02.png)
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv02_0717_login
 
 ### 1. alkalom - 2018.07.10.
 
 **Feladat**
 
-* átnézzük, hogy milyen eszközöket használunk majd a kurzus során 
-* átismételjük, hogy hogyan is épül fel a projekt és kicsit végig nézzük a kódunkat
-* firebase ismétlés és használat
-  * megcsináljuk az adatbázisunkat
-  * megismerjük hogyan működik a firebase rest apin keresztül és megrángatjuk vs code extension segítségével
-  * átemeljük a blogpostokat a lokális back-endünkről firebase-re
-  * megnézzük hogyan működik a firebase authentikáció
-  * beregisztráljuk az első userünket
-  * levédjük az adatbázisunkat az idegenektől
+- átnézzük, hogy milyen eszközöket használunk majd a kurzus során
+- átismételjük, hogy hogyan is épül fel a projekt és kicsit végig nézzük a kódunkat
+- firebase ismétlés és használat
+  - megcsináljuk az adatbázisunkat
+  - megismerjük hogyan működik a firebase rest apin keresztül és megrángatjuk vs code extension segítségével
+  - átemeljük a blogpostokat a lokális back-endünkről firebase-re
+  - megnézzük hogyan működik a firebase authentikáció
+  - beregisztráljuk az első userünket
+  - levédjük az adatbázisunkat az idegenektől
 
 ![Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-advanced01.png)
 
@@ -102,7 +123,7 @@ https://github.com/dosabalint/webfejleszto-vue-02-01
 
 **Egyéb linkek**
 
--   https://stackoverflow.com/a/31733623/4920059
+- https://stackoverflow.com/a/31733623/4920059
 
 #### 2/2. feladat - HTTP server és opener
 
@@ -204,7 +225,7 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-02_json-server
 
 **Egyéb linkek**
 
--   https://spring.io/understanding/REST
+- https://spring.io/understanding/REST
 
 #### 5/3. feladat - Blog - megjelenítés
 
@@ -243,9 +264,9 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/06-03_post-oldal
 #### Gyakorló / Házi feladat ötletek
 
 - lapozó bevezetése
-    - elsőre kategória szűréstől külön, utána akár egyben a kettőt
-    - új route
-    - $route.params alól oldalszám alapján tördelés
+  - elsőre kategória szűréstől külön, utána akár egyben a kettőt
+  - új route
+  - $route.params alól oldalszám alapján tördelés
 - kereső szűrő oldal
 - címke szűrő oldal
 - footer komponens
