@@ -15,7 +15,7 @@
 - Vue advanced
   - [1. alkalom - 2018 július 10.](#1-alkalom---20180710)
   - [2. alkalom - 2018 július 17.](#2-alkalom---20180717)
-  - [2. alkalom - 2018 július 18.](#3-alkalom---20180718)
+  - [3. alkalom - 2018 július 18.](#3-alkalom---20180718)
 
 ## Elérhetőségek
 
