@@ -54,7 +54,7 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv01_0710_fi
 
 ### 1. alkalom - 2018 június 5.
 
-[Tematika](assets/mm-vue01.png)
+![Tematika](assets/mm-vue01.png)
 
 #### 1/1. feladat - Ezt csak így ide be, és működik is
 
@@ -88,7 +88,7 @@ https://github.com/dosabalint/webfejleszto-vue-01-03
 
 ### 2. alkalom - 2018 június 7.
 
-[Tematika](assets/mm-vue02.png)
+![Tematika](assets/mm-vue02.png)
 
 #### 2/1. feladat - NPM
 
@@ -126,7 +126,7 @@ https://github.com/dosabalint/webfejleszto-vue-02-03
 
 ### 3. alkalom - 2018 június 12.
 
-[Tematika](assets/mm-vue03.png)
+![Tematika](assets/mm-vue03.png)
 
 #### 3/1. feladat - Komponensek
 
@@ -160,7 +160,7 @@ https://github.com/dosabalint/webfejleszto-vue-03-03
 
 ### 4. alkalom - 2018 június 14.
 
-[Tematika](assets/mm-vue04.png)
+![Tematika](assets/mm-vue04.png)
 
 #### 4/1. feladat - Szerkezet átnézése
 
@@ -188,7 +188,7 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/04-04_navigation-atdo
 
 ### 5. alkalom - 2018 június 19.
 
-[Tematika](assets/mm-vue05.png)
+![Tematika](assets/mm-vue05.png)
 
 #### 5/1. feladat - Általános komponensek
 
@@ -220,7 +220,7 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/05-04_blog-szures
 
 ### 6. alkalom - 2018 június 21.
 
-[Tematika](assets/mm-vue06.png)
+![Tematika](assets/mm-vue06.png)
 
 #### 6/1. feladat - Vue Router
 
@@ -252,7 +252,7 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/06-03_post-oldal
 
 ### 7. alkalom - 2018 június 26.
 
-[Tematika](assets/mm-vue07.png)
+![Tematika](assets/mm-vue07.png)
 
 #### 7/1. feladat - Firebase project
 
@@ -274,7 +274,7 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/07-03_contact-form
 
 ### 8. alkalom - 2018 június 28.
 
-[Tematika](assets/mm-vue08.png)
+![Tematika](assets/mm-vue08.png)
 
 #### 8/1. feladat - Kérdőív oldal
 
@@ -304,3 +304,22 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/tree/08-03_statisztika-old
 - JS kurzus példáinak átdolgozása VueJS alapon: https://github.com/dosabalint/webfejleszto-javascript
 - VueJS.org példák: https://vuejs.org/v2/examples/
 - Todo alkalmazás: https://vuejs.org/v2/examples/todomvc.html
+- Fizu.hu feladatok
+  - blog oldalon címkére szűrés
+  - blog oldalon szabadszavas keresés
+  - footer refactor
+  - mobil navigáció összecsukás menüpont kattintás után
+  - Fizutérkép oldalon újabb kimutatások
+    - munkakörökben nemek eloszlása
+    - oszlopdiagramon: legalacsonyabb, átlag, legmagasabb kereset
+    - betöltött munkakörök és darabszámuk megyékre bontva
+    - ágazatokhoz tartozó legalacsonyabb, átlag és legmagasabb kereset
+  - hosszú kérdőív bekötése, onnan adatbeküldés
+  - címkék és kategória megjelenítése a blogpost oldalon
+  - bejegyzés készítő alkalmazás
+    - valamilyen szerkesztőfelület
+      - bekezdések
+      - képek
+      - idézetek
+    - eredmény renderelése előnézet jelleggel
+    - beküldés gombra nyomva elküldi az adatot a backendnek, az eltárolja, innentől blog oldalon látszódik
