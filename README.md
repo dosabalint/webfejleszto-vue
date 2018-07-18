@@ -13,8 +13,8 @@
   - [8. alkalom - 2018 június 28.](#8-alkalom---2018-június-28)
   - [Gyakorláshoz](#gyakorláshoz)
 - Vue advanced
-
-  - [1. alkalom - 2018 július 10.](#1-alkalom---2018-07-10)
+  - [1. alkalom - 2018 július 10.](#1-alkalom---20180710)
+  - [2. alkalom - 2018 július 17.](#2-alkalom---20180717)
 
 ## Elérhetőségek
 
@@ -41,7 +41,7 @@ https://www.facebook.com/groups/364060044017273/
     - global namespace (window)
     - root component data-ban adat tárolás
   - amit nem próbálunk ki, de érdekes és megoldás lehet hasonló problémára
-    - [vue component mint message bus](https://alligator.io/vuejs/global-event-bus/)b
+    - [vue component mint message bus](https://alligator.io/vuejs/global-event-bus/)
     - [saját store megvalósítása](https://vuejs.org/v2/guide/state-management.html)
       - ezt még azért lehet elővesszük majd :smile:
 
