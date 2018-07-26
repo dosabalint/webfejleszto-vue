@@ -17,6 +17,7 @@
   - [2. alkalom - 2018 július 17.](#2-alkalom---20180717)
   - [3. alkalom - 2018 július 18.](#3-alkalom---20180718)
   - [4. alkalom - 2018 július 24.](#4-alkalom---20180724)
+  - [5. alkalom - 2018 július 26.](#5-alkalom---20180726)
 
 ## Elérhetőségek
 
@@ -31,6 +32,25 @@ https://www.facebook.com/groups/364060044017273/
 - nagy.gergo@netacademia.hu
 
 ## Vue Advanced
+
+### 5. alkalom - 2018.07.26.
+
+**Feladat**
+
+- megértjük a javascript fejlődését, verzióit
+- átismétlünk pár új nyelvi elemet: rest, spred és destructoring
+- megnézzük, hogy mit csinál nekünk pontosan a babel és hogyan működik együtt a webpack-el
+- refactore-oljuk a store-unkat külön fileba, hogy függetlenedni tudjunk a Vue-s környezettől
+  - megértjük hogyan is működnek pontosan az import exportok es2015-ben
+- megismerjük a vuex-et
+  - a frissen előállt független storeunkat refactoroljuk vuex-es verzióra, mert szeretjük ha okos emberek dolgoznak sokat helyettünk!
+- megértjük, hogy miért is kellett ezt a részt az authentikáció kellős közepén megtanulnunk
+
+![Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-advanced05.png)
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv05_0726_blog-levedes
 
 ### 4. alkalom - 2018.07.24.
 
@@ -49,7 +69,7 @@ https://www.facebook.com/groups/364060044017273/
 
 **Repository**
 
-https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv03_0724_vuex
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv04_0724_vuex
 
 ### 3. alkalom - 2018.07.18.
 
@@ -64,7 +84,7 @@ https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv03_0724_vu
 
 **Repository**
 
-https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv02_0718_registration
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv03_0718_reigistration
 
 ### 2. alkalom - 2018.07.17.
 
