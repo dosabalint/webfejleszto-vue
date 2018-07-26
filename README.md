@@ -37,14 +37,12 @@ https://www.facebook.com/groups/364060044017273/
 
 **Feladat**
 
-- megértjük a javascript fejlődését, verzióit
-- átismétlünk pár új nyelvi elemet: rest, spred és destructoring
-- megnézzük, hogy mit csinál nekünk pontosan a babel és hogyan működik együtt a webpack-el
-- refactore-oljuk a store-unkat külön fileba, hogy függetlenedni tudjunk a Vue-s környezettől
-  - megértjük hogyan is működnek pontosan az import exportok es2015-ben
-- megismerjük a vuex-et
-  - a frissen előállt független storeunkat refactoroljuk vuex-es verzióra, mert szeretjük ha okos emberek dolgoznak sokat helyettünk!
-- megértjük, hogy miért is kellett ezt a részt az authentikáció kellős közepén megtanulnunk
+- átvesszük és kijavítjük a babel configunkat, hogy jobban vigyázzon ránk
+- vuex-et ismétlünk
+- types refactor elgépelés ellen
+- user teljes refactor
+- blog olvasás bejelenktkezéshez kötése
+- localStorage használat login perszisztenciára
 
 ![Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-advanced05.png)
 
