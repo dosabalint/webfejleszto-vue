@@ -18,6 +18,7 @@
   - [3. alkalom - 2018 július 18.](#3-alkalom---20180718)
   - [4. alkalom - 2018 július 24.](#4-alkalom---20180724)
   - [5. alkalom - 2018 július 26.](#5-alkalom---20180726)
+  - [6. alkalom - 2018 július 31.](#6-alkalom---20180731)
 
 ## Elérhetőségek
 
@@ -32,6 +33,23 @@ https://www.facebook.com/groups/364060044017273/
 - nagy.gergo@netacademia.hu
 
 ## Vue Advanced
+
+### 6. alkalom - 2018.07.31.
+
+**Feladat**
+
+- vscode setup, hogy a html részt is formázza
+- vue-app babel preset
+- dataservice refactor + vuex + promisok
+- firebase database app levedes
+- firebase hosting
+- házik
+
+![Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-advanced06.png)
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv06_0731_dataservice_es_firebase
 
 ### 5. alkalom - 2018.07.26.
 
