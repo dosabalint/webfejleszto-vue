@@ -19,6 +19,7 @@
   - [4. alkalom - 2018 július 24.](#4-alkalom---20180724)
   - [5. alkalom - 2018 július 26.](#5-alkalom---20180726)
   - [6. alkalom - 2018 július 31.](#6-alkalom---20180731)
+  - [7. alkalom - 2018 augusztus 02.](#7-alkalom---20180802)
 
 ## Elérhetőségek
 
@@ -33,6 +34,22 @@ https://www.facebook.com/groups/364060044017273/
 - nagy.gergo@netacademia.hu
 
 ## Vue Advanced
+
+### 7. alkalom - 2018.08.02.
+
+**Feladat**
+
+- route guard fix
+- blog categories fix
+- navigation refactor (profile link és logout)
+- open source sw tanulási minta vue-routeren keresztül
+- vue-router examples checkout, indítás és megértés
+
+![Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-advanced07.png)
+
+**Repository**
+
+https://github.com/dosabalint/webfejleszto-vue-fizuhu/releases/tag/adv07_0802_navigation-oss
 
 ### 6. alkalom - 2018.07.31.
 
