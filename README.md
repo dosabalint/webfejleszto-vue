@@ -12,7 +12,7 @@
   - [7. alkalom - 2018 június 26.](#7-alkalom---2018-június-26)
   - [8. alkalom - 2018 június 28.](#8-alkalom---2018-június-28)
   - [Gyakorláshoz](#gyakorláshoz)
-- Vue advanced
+- [Vue advanced](#Tanfolyam-full-mindmap)
   - [1. alkalom - 2018 július 10.](#1-alkalom---20180710)
   - [2. alkalom - 2018 július 17.](#2-alkalom---20180717)
   - [3. alkalom - 2018 július 18.](#3-alkalom---20180718)
@@ -20,6 +20,7 @@
   - [5. alkalom - 2018 július 26.](#5-alkalom---20180726)
   - [6. alkalom - 2018 július 31.](#6-alkalom---20180731)
   - [7. alkalom - 2018 augusztus 02.](#7-alkalom---20180802)
+  - [8. alkalom - 2018 augusztus 07.](#8-alkalom---20180807)
 
 ## Elérhetőségek
 
@@ -34,6 +35,21 @@ https://www.facebook.com/groups/364060044017273/
 - nagy.gergo@netacademia.hu
 
 ## Vue Advanced
+
+### Tanfolyam full mindmap
+
+[Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-full.pdf)
+
+### 8. alkalom - 2018.08.07.
+
+**Feladat**
+
+- migrálás @vue/clie-ra
+- kitekintés kiegészítő projektekre
+
+![Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-advanced0.png)
+
+**Repository**
 
 ### 7. alkalom - 2018.08.02.
 
