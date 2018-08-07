@@ -47,7 +47,7 @@ https://www.facebook.com/groups/364060044017273/
 - migrálás @vue/cli-ra
 - kitekintés kiegészítő projektekre
 
-![Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-advanced0.png)
+![Áttekintő az óráról](https://raw.githubusercontent.com/dosabalint/webfejleszto-vue/master/assets/mm-vue-advanced08.png)
 
 **Repository**
 
